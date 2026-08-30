@@ -13,7 +13,7 @@ export default function Home() {
           <div>
             <img src={noticia.foto} alt={noticia.titulo} width="200"/>
               <h2>{noticias.titulo}</h2>
-                <p>{noticias.resumo}</p>
+                <p>{noticias.resumo}</p>               
           </div>
         </Link>
       ))}
