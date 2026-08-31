@@ -48,7 +48,7 @@ export const noticias = [
     temas: ["TypeScript", "React", "Qualidade de Código"],
     resumo: "A tipagem estática previne erros em tempo de compilação, mas pode adicionar complexidade inicial no desenvolvimento.",
     textoCompleto: "A adoção do TypeScript cresceu significativamente. Mesmo para projetos menores, a autocompletação do código, o autodocumentamento das propriedades (props) e a prevenção de erros comuns de runtime superam o custo do tempo investido na configuração.",
-    foto: "https://images.unsplash.com/photo-1516116211223-4258568880c6?w=600"
+    foto: "https://www.pulsion.co.uk/wp-content/uploads/2024/11/react-typescript-javascript-blog.jpg"
   },
   {
     id: 6,
